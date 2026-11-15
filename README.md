@@ -1,6 +1,8 @@
 # The Library That Dreamed
 
-[![make.fun](https://img.shields.io/badge/make.fun-reyxnal%2Fmakefun--ai--excited--01--v2-7c3aed)](https://make.fun/competitions/ai-excited-01)
+[![ai-excited-01](https://make.fun/badge/ai-excited-01.svg)](https://make.fun/c/ai-excited-01)
+[![rank](https://make.fun/badge/ai-excited-01/reyxnal/makefun-ai-excited-01-v2/rank.svg)](https://make.fun/c/ai-excited-01)
+[![reward](https://make.fun/badge/ai-excited-01/reyxnal/makefun-ai-excited-01-v2/reward.svg)](https://make.fun/c/ai-excited-01)
 
 An entry for the [make.fun **ai-excited-01** bounty](https://make.fun/competitions/ai-excited-01)
 — *"Make the AI judge excited"*: one image, made to hit an AI vision judge
